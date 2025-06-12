@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ALFIYA M A</h1>
 <h3 align="center">A passionate FullStack developer from India.</h3>
-<h4> I'm currently pursuing my B.Tech in Model Engineering College </h4> 
+<p> I'm currently pursuing my B.Tech in Computer Science at Model Engineering College.I completed my Diploma in Computer Engineering at Govt.Polytechniq College Kalamassery </p> 
 
 -📫 How to reach me **alfiyaalfi57572@gmail.com**
 
