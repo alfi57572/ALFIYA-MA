@@ -1,4 +1,4 @@
-# ALFIYA-MA
+
 <h1 align="center">Hi 👋, I'm ALFIYA M A</h1>
 <h3 align="center">A passionate FullStack developer from India.</h3>
 
